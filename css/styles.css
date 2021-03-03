@@ -1,0 +1,84 @@
+hr{
+    border-style: dotted none none; 
+    width: 50%;
+    border-width: 5px;
+    color: #e3fdfd;
+    clear: left;
+    margin-top: -25px;
+    margin-bottom: 50px;
+}
+h1{
+     font-family:'Times New Roman', Times, serif;
+     font-size: 500%;
+     color: #71c9ce;   
+ }
+ h2 {
+    font-family: "Shippori Mincho";
+     font-size: 2.5rem;
+     color: #71c9ce;
+ }
+
+ .h2-2{
+    font-family: "Shippori Mincho";
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    color: #e3fdfd;
+ }
+
+ .top-container {
+
+     padding-top: 100px;
+     background-color: #e3fdfd;
+    }
+ .middle-container {
+     padding: 100px;
+     background-color: #cbf1f5;
+ }
+
+ .middle-container2 {
+    padding: 100px;
+    background-color: #a6e3e9;
+ }
+ 
+ body{
+    text-align: center;
+    background-color: black;
+ }
+ .logo{
+    width:200px;
+    height:200px;
+    border-radius: 150px;
+ }
+ .foto {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:10px solid #666;
+}
+.foto_hobbies{
+    width: 300px;
+    height: 200px;
+    border: 10px solid;
+}
+.foto_comida{
+    width: 300px;
+    height: 200px;
+    border: 10px solid;
+    margin-left: 200px;
+}
+.p1{
+    font-size: 30px;
+}
+.pcomida{
+    font-size: 30px;
+    margin-left: 250px;
+}
+
+.bottom-container{
+       background-color: #71c9ce;
+       padding: 100px;
+}
+.bottom-container2{
+    background-color: #a6e3e9;
+    padding: 100px;
+}
